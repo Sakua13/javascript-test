@@ -5,6 +5,7 @@ cs.width = '600';
 cs.height = '400';
  
 document.body.appendChild(cs);
+document.write("こんばんは")
 
 ctx.strokeRect(0,0,100,100);
  
